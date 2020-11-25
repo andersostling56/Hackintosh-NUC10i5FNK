@@ -1,4 +1,4 @@
-# Hackintosh-NUC10i5FNK
+# Hackintosh NUC10i5FNK2
 How I made the NUC10 to successfully run macOS Catalina and Big Sur
 
 I started out a couple of weeks ago in order to learn more on Hackintosh and OpenCore. After much struggle and expermenting, and support from friendly Redditors, I finally got the NUC up and running on Catalina.
